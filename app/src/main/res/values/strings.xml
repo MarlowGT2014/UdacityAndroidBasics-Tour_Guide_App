@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Welcome to Atlanta!</string>
+    <string name="tagline">What would you like to learn about the city?</string>
+    <string name="button1">Attractions</string>
+    <string name="button2">Restaurants</string>
+    <string name="button3">Outdoors</string>
+    <string name="button4">My Favorite Places</string>
+
+    <string name="coke">World of Coca-Cola</string>
+    <string name="cokeAdd">Address: 121 Baker St NW\nAtlanta, GA 30313</string>
+    <string name="cokeDescrip">"The Coca-Cola Museum showing the history up to the crazy flavors available."</string>
+
+    <string name="aqua">The Georgia Aquarium</string>
+    <string name="aquaAdd">Address: 225 Baker St NW\nAtlanta, GA 30313</string>
+    <string name="aquaDescrip">"The place where they trucked a whale through downtown for."</string>
+
+    <string name="fox">The Fox Theatre of Atlanta</string>
+    <string name="foxAdd">Address: 660 West Peachtree St NW\nAtlanta, GA 30308</string>
+    <string name="foxDescrip">"The Fabulous Fox Theatre that has graced the streets of Peachtree St. since the 1930s."</string>
+
+    <string name="i85">Interstate 85 (Ground Zero)</string>
+    <string name="i85Add">i85 Bridge</string>
+    <string name="i85Descrip">"The mythical overpass that was the site of an uncanny bridge collapse due to a fire first started by a flaming shopping cart that ignited a stockpile of plastic conduit, blazing forth with flame of death and destruction. The subsequent fallout from the event led to rapid decent into bedlam, and eventual collapse of the city itself. A tale that will forever be repeated by the bards in dark corners of the planet, having attained a status the likes of Sherman himself."</string>
+
+    <string name="maryMacs">Mary Macs Tea Room</string>
+    <string name="maryMacsAdd">Address: 224 Ponce De Leon Ave NE\nAtlanta, GA 30308</string>
+    <string name="maryMacsDesrip">"Best southern style restaurant in town."</string>
+
+    <string name="sm">Stone Mountain</string>
+    <string name="smAdd">Address: 1000 Robert E Lee Blvd, Stone Mountain, GA 30083</string>
+    <string name="smDescrip">"Being just a half hour away from the downtown section of the city, the park is a great place to go hiking and provides a great view of the surrounding area from the top."</string>
+
+    <string name="pp">Piedmont Park</string>
+    <string name="ppAdd">Address: 400 Park Dr NE, Atlanta, GA 30309</string>
+    <string name="ppDescrip">"This park is located right in the midtown area and is easily within walking distance from most working areas of midtown. It has one of the best scenic spots that the city can offer."</string>
+
+    <string name="bl">The Belt Line</string>
+    <string name="blAdd">Address: City Wide</string>
+    <string name="blDescrip">This is an initiative of the city to connect areas better with well-kept walking and biking trails. As it has grown, businesses and shops have all sprouted up around it.</string>
+
+    <string name="ss">The Silver Skillet</string>
+    <string name="ssAdd">Address: 200 14th St NW, Atlanta, GA 30318</string>
+    <string name="ssDescrip">"The is a popular breakfast spot located just north of Georgia Tech's campus. It's a small diner that's been around for decades and continues to make one of the best breakfasts in town."</string>
+
+    <string name="v">The Varsity</string>
+    <string name="vAdd">Address: 61 North Avenue NW, Atlanta, GA 30308</string>
+    <string name="vDescrip">"A classic dining spot that's famous for its greasy food and snappy cashiers. Located just east of Georgia Tech's campus, it's a popular spot for the young and old alike."</string>
+    
+    <string name="gt">The Georgia Institute of Technology</string>
+    <string name="gtAdd">Address: North Ave NW, Atlanta, GA 30332</string>
+    <string name="gtDescrip">"The greatest university the world has ever seen - fact."</string>
+
+    <string name="ea">"Eddie's Attic"</string>
+    <string name="eaAdd">Address: 515 N McDonough St, Decatur, GA 30030</string>
+    <string name="eaDescrip">"A popular music spot to see up and coming artists. Some of the ones who got their start here were John Mayer, Clay Cook, Shawn Mullins, Jennifer Nettles, and more."</string>
+    
+    <string name="sf">Six Flags Over Georgia</string>
+    <string name="sfAdd">Address: 275 Riverside Parkway Southwest, Austell, GA 30168</string>
+    <string name="sfDescrip">"The roller coaster packed amusement park located west of the city. It's close/cheap enough to go do easily one evening but also big enough to have plenty to do while you're there."</string>
+
+
+</resources>
