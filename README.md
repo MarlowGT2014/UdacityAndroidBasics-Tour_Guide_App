@@ -11,6 +11,9 @@ Screenshot of Main Menu:
 
 Screenshot of "Attractions" Menu: 
 
+![screenshot_1510627861](https://user-images.githubusercontent.com/14775517/32760747-b6c46780-c8bd-11e7-9e34-13a0ab20879f.png)
+
+
 
 
 
